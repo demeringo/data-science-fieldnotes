@@ -1,19 +1,26 @@
-# Data Science notes ... from the field
-> Some notes on data analysis and data visualization.
+# Data tools and short demos
 
->To gather and share what I learn... and keep track of interesting resources or ideas to explore.
+> Tools and ideas I find interresting for basic data analysis and data visualization.
 
-## Writing /sharing
-- Jupyter notebook viewer http://nbviewer.jupyter.org/
+## Demos
 
+- Plot entries from an AWS dynamoDB temperature records. Demo in a python in a jupiter notebook : [python/python/plot_dynamo.ipynb](python/python/plot_dynamo.ipynb).
+- Create AWS DB and send IOT data from a raspberry pi: <https://gitlab.com/demeringo/iot-temperature-to-aws>.
 
-## Plotting
-- Plotly for interractive diagrams: https://plot.ly/d3-js-for-python-and-pandas-charts/
+## Resources
+
+### Writing /sharing demos
+
+- Jupyter notebook viewer <http://nbviewer.jupyter.org/>
+
+### Plotting
+
+- Plotly for interractive diagrams: <https://plot.ly/d3-js-for-python-and-pandas-charts/>
 - [Plot data from DynamoDB using Pandas](http://nbviewer.jupyter.org/github/demeringo/data-science-fieldnotes/blob/master/python/plot_dynamo.ipynb)
 
-## Miscellaneous
-- Huge resource of material on data science with plenty of Jupyter books: https://github.com/martinapugliese/tales-science-data
+### Miscellaneous
 
+- Huge resource of material on data science with plenty of Jupyter books: <https://github.com/martinapugliese/tales-science-data>
 
 ## License
 
